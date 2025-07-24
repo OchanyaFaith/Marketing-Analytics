@@ -1,4 +1,4 @@
-Marketing-Analytics
+# Marketing-Analytics
 
 This project involved analyzing ShopEasy's marketing performance to address reduced customer engagement and conversion rates, despite ongoing marketing campaigns.The goal was to identify areas for improvement in their marketing strategies. 
 Here are the steps followed to accomplish this:
