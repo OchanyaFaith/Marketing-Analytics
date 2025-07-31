@@ -1,7 +1,8 @@
 # Marketing Analytics
 This project involved a performance analysis of marketing campaigns for an online retail store. My objective was to identify the root causes of decreased customer engagement and conversion rates, and recommend improvements to the existing marketing strategies.
 
-1. The process involved the following steps:
+The process involved the following steps:
+1. Get data
 
 2. Data Preparation & Transformation:  cleaned and  transformed the raw marketing data for analysis. 
 
